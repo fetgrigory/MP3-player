@@ -54,3 +54,4 @@
 ## Применяемые библиотеки:<br />
 pygame 2.1.2 <br />
 mutagen 1.45.1 <br />
+ttkthemes 3.2.2 <br />
